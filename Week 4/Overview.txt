@@ -1,0 +1,11 @@
+Databases 
+
+This database handson workshop consists of worshop for Relational Databases as part of below GitHub Repo.
+
+https://github.com/aws-samples/amazon-rds-purpose-built-workshop
+
+We will cover below labs
+
+lab1-TaxiDataMigration
+lab2-TaxiBookingAndPayments
+lab3-AthenaFederatedQuery
