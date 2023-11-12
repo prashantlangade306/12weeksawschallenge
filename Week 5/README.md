@@ -41,5 +41,5 @@ In this lab, we will be performing a migration of sample taxi application data f
   ![image](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/4a5ae789-a4e2-44ef-ac3a-191ee531baf1)
 
 
-3. 
+We have done with all the pre-requisites for this lab and good to proceed with the data migration part.
    
