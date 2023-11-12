@@ -1,11 +1,8 @@
-Databases 
+Amazon storage services:
 
-This database handson workshop consists of worshop for Relational Databases as part of below GitHub Repo.
+Amazon Simple Storage Service (Amazon S3)
+Amazon Elastic Block Store (EBS)
+Amazon Elastic File System (EFS)
+Amazon FSx
+Amazon S3 Glacier and Glacier Deep Archive:
 
-https://github.com/aws-samples/amazon-rds-purpose-built-workshop
-
-We will cover below labs
-
-lab1-TaxiDataMigration
-lab2-TaxiBookingAndPayments
-lab3-AthenaFederatedQuery
