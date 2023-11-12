@@ -35,7 +35,10 @@ In this lab, we will be performing a migration of sample taxi application data f
   psql -h <Host Name> -U <Username> -d <Database Name> -p <Port>
   e.g. psql -h xxxxx.us-east-1.rds.amazonaws.com -U auradmin -d taxidb -p 5432
 
-  ![Uploading image.png…]()
+  ![image](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/6e644e8e-e444-44a7-8a59-1b153d9910ee)
+  ![image](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/b4d05244-1360-4faf-8103-0876bde10d03)
+  ![image](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/796dcb91-aac4-4b32-81c5-172522155196)
+  ![image](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/4a5ae789-a4e2-44ef-ac3a-191ee531baf1)
 
 
 3. 
