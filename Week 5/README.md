@@ -42,4 +42,60 @@ In this lab, we will be performing a migration of sample taxi application data f
 
 
 We have done with all the pre-requisites for this lab and good to proceed with the data migration part.
-   
+
+**Creation of Source and Target database endpoints:**
+
+1. Create a Source endpoint for Oracle RDS
+
+![image](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/cadb137e-fe4f-4279-91cb-fdc0a3d5e335)
+
+2. Test endpoint connection
+![image](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/d523285f-fd3e-4d83-b596-7d5b86d80239)
+
+3. Create a Target endpoint for Aurora PostgreSQL
+![image](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/a21dfa24-ff7d-471e-a466-cc0780688092)
+
+4. Test endpoint connection
+   ![image](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/bba1eb2c-b85d-4be2-a656-4dd8ccc4b1fb)
+
+5. Create a Target endpoint for Amazon DynamoDB
+![image](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/6f76ed0c-5c0f-4792-a472-590c3eef4c89)
+
+6. Test endpoint connection
+   ![image](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/878af809-b60f-4d80-a48a-e08faa0a031a)
+
+
+**Migrate data from Oracle source to DynamoDB target**
+
+
+Creating Replication Task for DynamoDB Migration
+![image](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/1533768f-c180-48bf-877c-a9ada9113b3c)
+
+![image](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/da287424-0313-4371-916c-dbe6e029c544)
+![image](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/fa3a683d-36f2-4992-baee-7e7dde809fd6)
+
+Monitoring Replication Task for DynamoDB
+
+![image](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/2df46ef3-e6be-4a72-9705-469d6d793d6c)
+
+![image](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/42847960-6b31-4797-8724-088ff554f89d)
+
+Migrate data from Oracle source to Aurora PostgreSQL target
+Creating Replication Task for Aurora Migration
+![image](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/dd4ea13d-cc49-4619-a3ec-fbac8767e507)
+
+Monitoring Replication Task for Aurora PostgreSQL
+![image](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/3872eb79-3a90-48c2-b970-673ac6d98184)
+
+![image](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/86059947-c959-4510-a61f-225573898cfe)
+
+![image](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/f4aa5033-613c-4b34-aecf-d8f8e9d335fa)
+
+Lab1 has been successfully completed and we are moving to Lab 2.
+
+
+
+
+
+
+
