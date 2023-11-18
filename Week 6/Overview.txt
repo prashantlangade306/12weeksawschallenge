@@ -1,0 +1,5 @@
+Infrastructure as a code (IAAC)
+
+# Helps to provision AWS resources programatically.
+# Can be re-usable to provision the resources across accounts
+# Helps in reducing humar error
