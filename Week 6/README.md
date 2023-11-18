@@ -1,11 +1,17 @@
 Infrastructure as a code
 
-
+1. Create Cloud 9 env
+   
 ![1](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/01478188-e68d-4c98-ad65-d63c60f30851)
 
+2. Clone the repository
+   
 ![2](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/a7de095a-bf4c-4fd3-9fda-d2d05a802473)
 
+3. Update CLI version
+   
 ![3](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/13ee6fe7-766f-42c7-b968-a0865cb1ae00)
+
 
 ![4](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/0f6e512f-d3f6-4177-b3f2-f069bd09354f)
 
