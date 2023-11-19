@@ -56,19 +56,24 @@ Check the CloudFormation console to see the stack is successfully created.
 
 16. Open EC2 console and see the webserver instance is up and running.
 
-
 ![19](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/6c1da435-628f-46ea-a2b2-2405b1b7a8af)
 
+17. Open instrinsic-functions.yaml and update the code and run the update stack command
 ![20](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/32f3fdae-30a4-4b2e-b59b-c97c26a1c6d4)
 
+18. Check CloudFormation console to see if the stack (cfn-workshop-instrinsic-functions) is updated successfully.
 ![21](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/c216dc95-a806-4eb6-8f80-9389f37c812b)
 
+19. Open EC2 instance console and check that the "Tags" tab has all the correct values as updated in the previous step.
 ![22](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/6f9d7d6a-e301-4688-a9b0-6155a7d4a08b)
 
+20. Open mappings.yaml and add the code
 ![23](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/04c8fd76-794b-49fb-8d4d-e7b262b87a63)
 
+21. Run the stack creation command and this will create a StackId if the command is successful
 ![24](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/88237238-8def-4a80-98be-84cae040e4ce)
 
+22. Check CloudFormation console to see if the stack (cfn-workshop-mappings) is created successfully.
 ![25](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/ecd15294-5eaf-44c3-a814-335cb053b168)
 
 ![26](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/3e0cfe21-dc38-4087-9a6a-c802c190a549)
