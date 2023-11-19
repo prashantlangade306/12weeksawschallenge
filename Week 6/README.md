@@ -40,16 +40,18 @@ Infrastructure as a code
     
 ![15](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/2ef148d5-8b11-4463-8d1f-1280e0d5802e)
 
-14. Open instrinsic0functions.yaml and add the code for creation of EC2 instance referencing AMI Id
+13. Open instrinsic0functions.yaml and add the code for creation of EC2 instance referencing AMI Id
 ![14](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/9ba57207-bec6-4988-b9f8-f8060d7b9d6b)
 
-15. Run the stack creation command and this will create a StackId if the command is successful. Notice the AMI Id used in the command from previous step. 
-![16](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/ec50c3f0-e9b2-47f7-bc08-190810898c51)
-
-16. Check CloudFormation console to see if the stack (cfn-workshop-instrinsic-functions) is created successfully.
+14. Run the stack creation command and this will create a StackId if the command is successful. Notice the AMI Id used in the command from previous step.
 ![17](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/f18dd0b9-2c97-4112-b5e4-1035100baaf0)
 
-17. Open EC2 console and see the webserver instance is up and running.
+
+15. Check CloudFormation console to see if the stack (cfn-workshop-instrinsic-functions) is created successfully.
+
+![16](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/ec50c3f0-e9b2-47f7-bc08-190810898c51)
+
+16. Open EC2 console and see the webserver instance is up and running.
 ![18](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/1b336bc5-1975-48b4-83c6-c83153bae043)
 
 ![19](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/6c1da435-628f-46ea-a2b2-2405b1b7a8af)
