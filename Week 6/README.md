@@ -12,11 +12,13 @@ Infrastructure as a code
    
 ![3](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/13ee6fe7-766f-42c7-b968-a0865cb1ae00)
 
-
+4. Check the CLI version
 ![4](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/0f6e512f-d3f6-4177-b3f2-f069bd09354f)
 
+5. Add the S3Bucket creation code in template-and-stack.yaml
 ![5](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/f0e694c6-9977-4b7f-bc6e-0d96afa961fd)
 
+6. Run the stack creation command and this will create a StackId if the command is successful
 ![6](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/7ddf6419-19d7-47cd-a068-054bdb72c157)
 
 ![7](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/8b7a782c-2c7e-4fae-bd10-6bd0298dcd83)
