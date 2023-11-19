@@ -30,7 +30,8 @@ Infrastructure as a code
 9.Check CloudFormation console to see if the stack (cfn-workshop-template-and-stack) is updated successfully.
 ![11](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/9d65d761-4932-4e82-9bbf-d792f63861a7)
 
-10. Open resources.yaml and add the code to create EC2 configuration 
+10. Open resources.yaml and add the code to create EC2 configuration
+    
 ![12](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/90a31807-007b-46ac-b19d-26cb517f0f28)
 
 11. Run the stack creation command and this will create a StackId if the command is successful
