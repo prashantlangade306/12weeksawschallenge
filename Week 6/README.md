@@ -10,23 +10,27 @@ Infrastructure as a code
 
 3. Update CLI version
 ![3](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/13ee6fe7-766f-42c7-b968-a0865cb1ae00)
-
-4. Add the S3Bucket creation code in template-and-stack.yaml
 ![5](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/f0e694c6-9977-4b7f-bc6e-0d96afa961fd)
 
+5. Add the S3Bucket creation code in template-and-stack.yaml
 ![6](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/7ddf6419-19d7-47cd-a068-054bdb72c157)
 
 5. Run the stack creation command and this will create a StackId if the command is successful
 ![7](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/8b7a782c-2c7e-4fae-bd10-6bd0298dcd83)
 
+6. Check CloudFormation console to see if the stack (cfn-workshop-template-and-stack) is created successfully.
 ![8](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/22e5f839-dc6e-4d9f-b221-93f4b07b2a22)
 
+7. Update template-and-stack.yaml file to include versioning configuration to be enabled. 
 ![9](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/35242f38-b268-4105-959e-e34f472e7fde)
 
+8.Run the stack update command and this will create a StackId if the command is successful
 ![10](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/bae9a586-3ccd-419d-80ed-84da5ca4a94c)
 
+9.Check CloudFormation console to see if the stack (cfn-workshop-template-and-stack) is updated successfully.
 ![11](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/9d65d761-4932-4e82-9bbf-d792f63861a7)
 
+10. Open resources.yaml and add the code to create EC2 configuration 
 ![12](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/90a31807-007b-46ac-b19d-26cb517f0f28)
 
 ![13](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/fc62f42a-960c-4492-bd10-29a11de1cca0)
