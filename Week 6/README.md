@@ -40,7 +40,7 @@ Infrastructure as a code
     
 ![15](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/2ef148d5-8b11-4463-8d1f-1280e0d5802e)
 
-13. Open instrinsic0functions.yaml and add the code for creation of EC2 instance referencing AMI Id
+13. Open instrinsic-functions.yaml and add the code for creation of EC2 instance referencing AMI Id
 ![16](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/ec50c3f0-e9b2-47f7-bc08-190810898c51)
 
 
