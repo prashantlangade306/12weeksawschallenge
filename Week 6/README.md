@@ -76,8 +76,10 @@ Check the CloudFormation console to see the stack is successfully created.
 22. Check CloudFormation console to see if the stack (cfn-workshop-mappings) is created successfully.
 ![25](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/ecd15294-5eaf-44c3-a814-335cb053b168)
 
+23. Open outputs.yaml file and run the create stack command.  Notice the AMI Id used in the command from earlier step.
 ![26](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/3e0cfe21-dc38-4087-9a6a-c802c190a549)
 
+24. Check CloudFormation console to see if the stack (cfn-workshop-outputs) is created successfully.
 ![27](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/8f2be8d3-428e-47ec-8655-1186ea15841c)
 
 
