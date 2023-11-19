@@ -36,11 +36,11 @@ Infrastructure as a code
 11. Run the stack creation command and this will create a StackId if the command is successful
 ![13](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/fc62f42a-960c-4492-bd10-29a11de1cca0)
 
-12. Run the command to gett the AMI Id
-![14](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/9ba57207-bec6-4988-b9f8-f8060d7b9d6b)
+12. Run the command to get the AMI Id
+![15](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/2ef148d5-8b11-4463-8d1f-1280e0d5802e)
 
 13. Open instrinsic0functions.yaml and add the code for creation of EC2 instance referencing AMI Id
-![15](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/2ef148d5-8b11-4463-8d1f-1280e0d5802e)
+![14](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/9ba57207-bec6-4988-b9f8-f8060d7b9d6b)
 
 14. Run the stack creation command and this will create a StackId if the command is successful. Notice the AMI Id used in the command from previous step. 
 ![16](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/ec50c3f0-e9b2-47f7-bc08-190810898c51)
