@@ -58,24 +58,34 @@
 # Check all the network interfaces created
 ![20](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/c4cf7b84-35b3-452f-9580-f1a7da2672d1)
 
+# Update routes table for VPC A private
 ![21](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/10acb90c-a29d-427c-a317-bc23adf1c180)
 
+# Update routes table for VPC B private
 ![22](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/de3830d1-4bc6-47b6-b6cf-efc7721e1588)
 
+# Update routes table for VPC C private
 ![23](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/133df9d6-d800-419e-a08f-e1809abb6bbe)
 
+# Ping the instance
 ![24](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/b7f1c492-c59c-4705-ade8-8c959895643d)
 
+# Check the Transit Gateway Route Table associations
 ![25](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/5740ebf7-3193-4020-a1a4-5409d747b2e4)
 
+# Check the Transit Gateway Route Table propagations
 ![26](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/a78cefa0-f14c-46ae-b087-831be54c4aa8)
 
+# Check the Transit Gateway Route Table routes
 ![27](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/11ba9dd3-c35c-40e8-97f4-4980fe23d1f1)
 
+# Delete the association of Transit Gateway Attachment Id and Transit Gateway Route Table Id 
 ![28](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/ed5e5137-17a6-484f-aee7-e7a2f7013f40)
 
+# This will update the propagation
 ![29](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/d6638db0-3b7a-4c31-b91b-5ae1ee95eff9)
 
+# Delete the transit gateway route table propagration
 ![30](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/fea3552e-146d-443c-90a0-cd23069004da)
 
 ![31](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/a65305e3-f1b4-4a68-98a2-d65fd8ac6fe6)
