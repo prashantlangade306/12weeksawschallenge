@@ -31,22 +31,31 @@
 
 ![11](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/3b2b7f33-9caf-49d8-913b-3139a33cea15)
 
+# Delete VPC peering connection between VPC A and VPC B
 ![12](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/0703ed25-ff66-47c6-b0c0-102c49e2a167)
 
+# Delete VPC peering connection between VPC A and VPC C
 ![13](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/f1a58b2f-b128-423f-9ae5-679a90b428a2)
 
+# Create Transit Gateway for VPC
 ![14](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/3cd4ccfd-9b83-4b32-9f3b-b496c8d7a4d9)
 
+# Create a subnet for Transit Gateway for VPC A in AZ1
 ![15](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/750ddc15-8b91-4d5b-9644-186eea2ff190)
 
+# Create a subnet for Transit Gateway for VPC A in AZ2
 ![16](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/d550d906-1d85-459c-b0b1-69c832858bda)
 
+# Create Transit Gateway attachment for VPC A
 ![17](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/e5829084-249f-44e1-86d4-f8ebb2186c3f)
 
+# Create Transit Gateway attachment for VPC B
 ![18](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/5b452f39-5d2e-42fd-bc42-1211e7f1d77f)
 
+# Create Transit Gateway attachment for VPC C
 ![19](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/ed17f58c-2d60-41d2-abe3-3e9b6d2bf73e)
 
+# Check all the network interfaces created
 ![20](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/c4cf7b84-35b3-452f-9580-f1a7da2672d1)
 
 ![21](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/10acb90c-a29d-427c-a317-bc23adf1c180)
