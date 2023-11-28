@@ -1,1 +1,6 @@
+Containers
 
+# AWS Fargate helps to use with Amazon ECS to run containers without having to manage servers or clusters of Amazon EC2 instances.
+# Amazon ECS cluster allows logical grouping of tasks or services that can be used to isolate your applications
+# Task can be used to instantiate a task definition within a cluster.
+# Amazon ECS service helps to run and maintain your desired number of tasks simultaneously in your ECS cluster.
