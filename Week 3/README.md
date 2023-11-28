@@ -1,22 +1,32 @@
+
+# Upload cloudformation template for NetworkingWorkshopMultiVPC and create the stack. 
 ![1](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/31ae8828-6d6a-4b28-a2e8-387beee7c987)
 
+# The stack will provision three VPC's as below
 ![2](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/219680dd-8df9-4330-8f17-9789201dfef5)
 
+# The stack will provision EC2 instances for VPC A and VPC B with public and private
 ![3](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/98e91121-7908-4b2d-b546-83942be0fea6)
 
+# Create VPC peering connection between VPC A and VPC B
 ![4](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/7ada9cc7-dede-43cc-9696-85645c008b8e)
 
+# Update routes table for VPC A private
 ![5](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/7764d8f9-60d1-4e70-8e1a-1cb127596876)
 
+# Update routes table for VPC B private
 ![6](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/8ec8cdf4-33f4-498c-a391-96f19c9a7053)
 
+# Create VPC peering connection between VPC A and VPC C
 ![7](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/e5b4d426-d7f2-4c2b-a297-f8aa47485a2e)
 
+# Update routes table for VPC A private
 ![8](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/b4185bda-3126-4c54-bf2f-8f17916b8aaf)
 
-
+# Update routes table for VPC C private
 ![9](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/99407d7f-a6d3-4bc6-8806-35755966642c)
 
+# Ping the instance
 ![10](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/3dad729a-3193-443e-af5d-b784508f185e)
 
 ![11](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/3b2b7f33-9caf-49d8-913b-3139a33cea15)
