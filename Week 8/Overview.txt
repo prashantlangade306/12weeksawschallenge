@@ -1,0 +1,3 @@
+# Build serverless bakend : AWS Lambda, AWS SAM using Dynamo DB table and Lambda function
+# Configure API Gateway
+# Build and deploy web application using AWS Amplify
