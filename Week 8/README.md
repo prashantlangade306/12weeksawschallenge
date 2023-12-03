@@ -1,3 +1,10 @@
+We will be using Serverless Application Model (SAM) to build a backend process for handling requests for the web application we will be creating. The web app  allows users to create todo tasks, and attach files to those tasks. To fulfill those requests, the JavaScript running in the browser will need to invoke a service running in the cloud.
+
+We will be implementing a Lambda function that will be invoked each time a user creates a task. The function will record the task in a DynamoDB table and then respond to the front-end application, updating the UI with the newly created task.
+
+The function is invoked from the browser using Amazon API Gateway. 
+
+
 1. Create Cloud9 environment with name "serverless-workshop"
 
 ![1](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/b1c71cea-c49b-4a81-9add-eee7be81c5b2)
