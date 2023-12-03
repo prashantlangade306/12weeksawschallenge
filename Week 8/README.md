@@ -31,48 +31,70 @@
 10. Add the code snipped to app.js
 ![10](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/3392e2e0-fc92-4cce-b186-1404794f281a)
 
+11. Add the code snippet of AWS lambda function creation
 ![11](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/44ada529-ba9d-48f0-ad00-93e8dd5ae79f)
 
+12. Add the code snippet of CreateTask AWS Lambda function in template.yaml
 ![12](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/219f6541-de63-468d-a6ba-ec9660a152fd)
 
+13. Copy the code snippet into apps.js under /sam/src/auth
 ![13](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/74bc5cda-c9e2-4426-bdae-6538f537c1dd)
 
+14. Update AWS CLI
 ![14](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/e3824695-884b-4787-a853-36d94fd00723)
 
+15. Then build the code using sam build command
 ![15](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/ead803db-82e9-4ad3-9ac3-3b2a2469567b)
 
+16. This will display stack successfully created towards the end.
 ![16](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/8aac3597-be80-4cbc-8f23-6c61b65ed845)
 
+17. Replace the value of axios.defaults.baseURL key value to the API gateway URL from previous step
 ![17](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/32d43305-380a-428a-ac4c-bd527d20cbb4)
 
+18. Then initialise the amplify env
 ![18](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/3e704999-3662-40e9-a327-8aeda6b78262)
 
+19. Look for the successful initialisation at the end.
 ![19](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/a58fedbf-7bf6-4641-9616-28b76d962e54)
 
+20. Install npm 
 ![20](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/1b057cb9-908f-4edd-9879-a44fcdddcd44)
 
+21. It will show build is complete
 ![21](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/c7b1bd58-8c0a-4b5a-b639-a2132325de94)
 
+22. Use hosting by selecting options as shown in the console
 ![22](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/ccaeb3c7-6466-4d30-a4d1-dba4b3235022)
 
+23. Deployment is completed and will display the app url at the end
 ![23](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/c49bbccc-255e-4760-b39f-05a81246989e)
 
+24. Access the url which will display the login page
 ![24](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/942f0cac-360b-461f-9a2f-d3ced39a8f2a)
 
+25. Use any credentials to login as there is no authentication currently enabled.
 ![25](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/6d10dce4-bcb4-4efd-b371-34f25ee1f801)
 
+26. Go to DynamoDB console and see the records created.
 ![26](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/7cc6bf04-5ad5-4fa2-b4f5-6e6f0f85fb05)
 
+27. Go to cloudwatch console and access the logs for the actions so far
 ![27](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/0ab38e07-84a1-4cec-93f2-f9bad1614ce2)
 
+28. Look at the predefined metrics in the cloudwatch console
 ![28](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/ec2c0bdf-b053-4e2d-8b42-8213d5ad4165)
 
+29. Add the code snippet to app.js
 ![29](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/267fbbdc-e194-4ae0-a579-465f18f338ab)
 
+30. Add the deletelabels code snippet to template.yaml file for Amazon Rekognition usecase
 ![30](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/549f078c-fdf6-4ee1-b070-5eddf61d32e0)
 
+31. This will display stack created/updated message with the name
 ![31](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/56129b72-8a25-4168-945f-f174a9646d0b)
 
+32. Now terminate the resources created by updating BUCKET value with the actual value of the S3 bucket in the empty_verioned_bucket.py
 ![32](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/02c4b82b-f8e9-43f9-a20e-3ac5df151721)
 
 
