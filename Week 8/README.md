@@ -1,21 +1,34 @@
+1. Create Cloud9 environment with name "serverless-workshop"
+
 ![1](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/b1c71cea-c49b-4a81-9add-eee7be81c5b2)
 
+2. Open the cloud9 console and close the welcome tab and open a new terminal. It should then look like this.
 ![2](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/b7295553-6caa-42a8-8f7e-f3ab8a01a947)
 
+3. Check node js version and run nvm install.
+   If the version is not 16 then run additional commands as below to install v16 and finally check again the version
 ![3](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/0458fbe2-3c50-4b1d-9cba-c214fb7843a6)
 
+4. Clone serverless-tasks-webapp repository
 ![4](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/0d2ac9e8-9f15-4b1e-8e8a-303de65b1913)
 
+5. Update aws-sam-cli
 ![5](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/d2ab6200-4a3e-470b-90a0-6c8d6a0a7bb2)
 
+6. Resize the space to avoid running out of storage
 ![6](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/6c0bbb3e-2ff8-4fd4-9ee0-1b7200d86fe3)
 
+7. Check the storage and see that /dev/nvme0n1p1 storage increased to 20G
 ![7](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/7e6ff2eb-1fde-492c-ba2b-c9a821c76257)
 
+8. Now install AWS Amplify and configure AWS amplify env.
+   Provide values such as region and then create a user
 ![8](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/a1d102b8-642e-4c0b-8d9c-33b2ab2d8af5)
 
+9. Open template.yaml and paste the code
 ![9](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/7e1f2771-0f49-4a42-908b-491453f80780)
 
+10. Add the code snipped to app.js
 ![10](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/3392e2e0-fc92-4cce-b186-1404794f281a)
 
 ![11](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/44ada529-ba9d-48f0-ad00-93e8dd5ae79f)
