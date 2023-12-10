@@ -49,14 +49,27 @@
 
 ![25](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/e45f5280-89ab-4198-af6b-c0ae404a32b9)
 
+![26](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/7207b4b3-cde5-4895-805a-f432fcd53d81)
 
+![27](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/43de767e-0215-47bd-8c3c-3da12964a636)
 
+![28](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/e04021a9-4883-46af-a0f4-12bb65cfd296)
 
+![29](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/ed6b15e6-bdc9-4379-858c-06fe13d43666)
 
+![30](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/0b04b9f2-02c7-42f8-9175-6c773fbbace2)
 
+![31](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/7129ff69-c8b0-4202-ac46-7a76974e7637)
 
+![32](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/7c0a4753-35cb-44aa-92f3-b996ea8a4f31)
 
+![33](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/584822fe-d5e0-4c79-8289-cf76121fbf77)
 
+![34](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/5e937088-3679-42b3-93dc-7d264270c001)
+
+![35](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/4941ec6a-7122-4b19-b24e-8dd35793da22)
+
+![36](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/9c898d84-d872-444b-99f4-56cee94d810d)
 
 
 
