@@ -99,26 +99,35 @@
 31. Edit the subscription filter policy with quantity greater than 100
 ![35](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/4941ec6a-7122-4b19-b24e-8dd35793da22)
 
+32. Subscription successfully saved
 ![36](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/9c898d84-d872-444b-99f4-56cee94d810d)
 
+33. You can now send/receive messages
 ![37](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/75c085ff-d82b-4b7c-b73c-5c2f8bd0809b)
 
+34. Subscribe to SNS topic
 ![38](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/1a412d93-7524-4cb0-95f7-053a93ff13ea)
 
+35. Check the subscription is reflecting for the SQS
 ![39](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/df7988e8-b10c-4609-825a-c94d5b25215a)
 
 ![40](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/8f37e57c-31ae-4f1f-b283-597703dc4402)
 
+36. Edit the filter policy for location - EU and quantity greater than and equal to 100
 ![41](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/fd465c7a-fd13-45b4-bc6f-32ec1a95c852)
 
 ![42](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/87eabf8f-25c0-458c-9785-78d3ea6738fd)
 
+37. Save the subscription policy
 ![43](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/2865f051-dc25-47bf-aaeb-e863da9a3e32)
 
+38. Publish Test message to this queue
 ![44](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/3a832d46-cbd4-4bd2-84ca-7e8f5762ca9e)
 
+39. Successful publishing of the message
 ![45](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/0e7ff72e-efe3-47e6-bb2a-da2923d7b371)
 
+40. 
 ![46](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/53452975-09f9-44cc-be4d-5bea085adcaa)
 
 ![47](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/28f77cd7-67a5-4442-96b9-8f7bbfa4539d)
