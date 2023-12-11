@@ -148,6 +148,7 @@
 46. And view the details of OrdersDLQ. This is the queue where failed messages will be delivered to.
 ![52](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/4fe00288-19c4-4f1d-b2fd-47f0a6069b32)
 
+47. Edit the access policy for this DLQ to point to Orders queue
 ![53](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/18a5cefb-48b7-491d-8e92-973855331e46)
 
 ![54](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/741278b4-a616-4232-9087-149f78cf1bf7)
