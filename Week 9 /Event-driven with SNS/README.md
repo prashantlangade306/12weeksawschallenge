@@ -12,28 +12,36 @@
 
 5. Successful publishing of the message
 ![5](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/c4f76473-b254-41a8-93c8-4d8bdf81c7f6)
-
-6. 
 ![6](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/24577430-30e3-4d16-9ba2-fd412e735c34)
 
+6. View the SQS queue for Orders with messages available as 1
 ![7](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/dac8fa2b-d732-4e1c-bf1c-017659308310)
 
+7. Poll messages and you can see the details of the message 
 ![8](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/26799d7d-2783-496b-b27c-52bd2010423d)
 
+8. Select the message and delete it
 ![9](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/d48f8119-8830-4cbc-aa3a-f804a6d3ad2b)
 
+9. Successful deletion of the message.
 ![10](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/cb783be1-2747-4123-ac77-bf2ef7f3b556)
 
+10. Create a new SQS queue - Orders-EU
 ![11](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/aad88db7-af69-4f2c-b309-8a2d99a29932)
 
+11. Check the details of the created order
 ![12](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/d3dd3258-27ea-4d32-ac4e-ffef0cd0a199)
 
+12. Check the SNS subscription
 ![13](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/e2d9d623-a9a5-47d9-bc1e-11220fc7b290)
 
+13. Edit the filter policy based on the location - eu-west
 ![14](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/bb4596cd-f8cf-413b-a373-6e562acf04f1)
 
+14. Save the updated details
 ![15](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/a00c24c2-487d-446c-9d19-e44445190b95)
 
+15. Check the BookOrders queue
 ![16](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/226afa72-4ea1-4627-8f28-7fcf18f0b508)
 
 ![17](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/12bd8ca1-3546-441d-860a-05d6472c7415)
