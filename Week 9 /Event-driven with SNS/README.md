@@ -127,19 +127,25 @@
 39. Successful publishing of the message
 ![45](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/0e7ff72e-efe3-47e6-bb2a-da2923d7b371)
 
-40. 
+40. Publish message to the topic
 ![46](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/53452975-09f9-44cc-be4d-5bea085adcaa)
 
+41. Message successfully published to the queue
 ![47](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/28f77cd7-67a5-4442-96b9-8f7bbfa4539d)
 
+42. Again publish message to the queue
 ![48](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/1586d826-aafa-42d8-92e3-9085fa8cd93e)
 
+43. Message successfully published to the queue
 ![49](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/9793910b-fe04-41eb-bd67-09aa3068d50b)
 
+44. Look at all the queues with different number of messages delivered to them based on the filter policy applied.
 ![50](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/be28a88b-c5ac-4f5e-9d0a-54ab788d9bca)
 
+45. View the details of Orders topic
 ![51](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/f01ccc2b-56cf-424c-baba-2f61cd04eb4c)
 
+46. And view the details of OrdersDLQ. This is the queue where failed messages will be delivered to.
 ![52](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/4fe00288-19c4-4f1d-b2fd-47f0a6069b32)
 
 ![53](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/18a5cefb-48b7-491d-8e92-973855331e46)
