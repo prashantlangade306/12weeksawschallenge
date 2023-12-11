@@ -1,23 +1,35 @@
+1. Create a stack for event driven architecture for the required resources for this lab
+
 ![1](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/facb90f8-afeb-43e4-8683-9029486e870c)
 
+2. This is the architecture of the lab
 ![2](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/eda38fd8-eb1a-4e89-a646-046bf1b89c79)
 
+3. Create Event bus orders - Inventory and Orders
 ![3](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/f401a1d1-f528-4176-9fbd-9e1302f01026)
 
+4. Create an EventBridge event rule - OrdersDevRule
 ![4](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/c51d11d6-2d29-46da-8745-7a99cd8a760c)
 
+5. Add the event pattern
 ![5](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/ec657dde-4458-4adf-a5e0-fecf1ddbdf2b)
 
+6. Select Target with AWS service - Cloudwatch log group with orders log group
 ![6](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/13bc8634-ac50-4184-a673-4f837117f239)
 
+7. Successfully created the OrdersDevRule
 ![7](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/f5aa1fb9-0794-4632-a515-fc64f7bbb947)
 
+8. Send the event
 ![8](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/d0c85603-5cc5-48cb-bf0e-64882ccd1e12)
 
+9. Go to Cloudwatch log 
 ![9](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/6209e0d1-ca00-4bd4-9e5e-83a339cd49a5)
 
+10. And check the log events for orders
 ![10](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/bd0a65fb-e158-486d-be3e-c09bae9328ba)
 
+11. 
 ![11](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/492a4663-67cf-4b56-bc1b-075610aabbc3)
 
 ![12](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/52107cc2-48e5-4231-ad8a-cc69433ff47a)
