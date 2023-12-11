@@ -93,8 +93,10 @@
 29. View the subscription topic 
 ![33](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/584822fe-d5e0-4c79-8289-cf76121fbf77)
 
+30. View the subscription details for Orders-XL
 ![34](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/5e937088-3679-42b3-93dc-7d264270c001)
 
+31. Edit the subscription filter policy with quantity greater than 100
 ![35](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/4941ec6a-7122-4b19-b24e-8dd35793da22)
 
 ![36](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/9c898d84-d872-444b-99f4-56cee94d810d)
