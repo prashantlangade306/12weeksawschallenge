@@ -61,18 +61,22 @@
 20. Publish Test message to this topic
 ![22](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/44813f57-e4ff-4e43-97ab-1a4e9ef02aee)
 
-21. Message successully published
+21. Message successfully published
 ![23](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/5b31f7eb-811c-4e7e-98b8-a81bef49d860)
 
 22. Again publish Test message to this topic
 ![24](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/89a9e813-51d5-42ff-af28-567f388a2aa6)
 
+23. Message successfully published
 ![25](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/e45f5280-89ab-4198-af6b-c0ae404a32b9)
 
+24. Again publish the message with different content as shown
 ![26](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/7207b4b3-cde5-4895-805a-f432fcd53d81)
 
+25. Succesful publishing of message
 ![27](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/43de767e-0215-47bd-8c3c-3da12964a636)
 
+26. 
 ![28](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/e04021a9-4883-46af-a0f4-12bb65cfd296)
 
 ![29](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/ed6b15e6-bdc9-4379-858c-06fe13d43666)
