@@ -124,23 +124,31 @@
 41. Open template.yaml from the project
 ![42](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/91f226af-2487-4781-98f1-6ae0de43e72f)
 
-42.
+42. And add the code for Lambda function and Dynamo DB table
 ![43](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/5cca4388-6ab3-4475-857c-a1054e9231c6)
 
+43. Open the app.py file and add the code
 ![44](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/8d5bfdf6-6a46-41ed-aa6e-820a1db1f839)
 
+44. Then deploy the project using SAM
 ![45](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/24e38ac2-54f6-4a8c-9258-fc6b467cee33)
 
+45. The logs will show various resources created/updated
 ![46](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/398bcf5a-debd-4518-a8f7-ca7c275939d4)
 
+46. Then put the events using the AWS command as shown
 ![47](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/dc5f94bc-48c1-42b2-b6b2-fc7ecc5fc815)
 
+47. This will then show forcast-service with Lambda function and other resources under Resources section
 ![48](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/68bfea1a-375b-457f-89e7-afa576788021)
 
+48. Open the Lambda function in Lambda console
 ![49](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/e8d76a34-1668-42ae-9d25-c329c5056463)
 
+49. Go to the CloudWatch logs to view the events log
 ![50](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/f2067c8d-608f-4c47-9420-f6e2e1c958ba)
 
+50. And then go to DynamoDB console to see the OrderDetails table created
 ![51](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/afb4d71c-1560-45d6-9305-d14fb53b80fd)
 
 ![52](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/d87e1d8e-1f96-4c58-93af-f2d24876805f)
