@@ -1,4 +1,4 @@
-1. Create a stack for event driven architecture for the required resources for this lab
+1. Create a stack for event-driven architecture for the required resources for this lab
 
 ![1](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/facb90f8-afeb-43e4-8683-9029486e870c)
 
@@ -29,45 +29,64 @@
 10. And check the log events for orders
 ![10](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/bd0a65fb-e158-486d-be3e-c09bae9328ba)
 
-11. 
+11. Note down the API gateway endpoint URL from the CloudFormation stack console
 ![11](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/492a4663-67cf-4b56-bc1b-075610aabbc3)
 
+12. Create API destination 
 ![12](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/52107cc2-48e5-4231-ad8a-cc69433ff47a)
 
+13. Create another EventBridge Rule - OrdersEventsRule
 ![13](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/9ae69311-2267-4ba2-9da6-fa9c0e27f867)
 
+14. Select EventBridge API destination in Target
 ![14](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/006ba88e-613f-4f3e-9086-05873247a1e6)
 
+15. Save and confirm that the OrdersEventsRule is created successfully
 ![15](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/35649b35-7276-41e8-847d-91c2f04e8645)
 
+16. Create Event source with event detail for Orders
 ![16](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/ca01ca3f-0a38-44c3-b2f6-55e06ee39ef4)
 
+17. Sent the Event
 ![17](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/d9ab7b2b-ca03-4ba4-9a86-c6d08ec1e857)
 
+18. Check the API gateway execution log and notice the log streams
 ![18](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/9e9b704c-726b-4c03-8374-c2cad884adba)
 
+19. Access the Cloudwatch log groups
 ![19](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/d70f28e2-3ce8-4dd3-958c-814a78e4933b)
 
+20. Create another EventBridge Rule - EUOrdersRule
 ![20](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/8ce924d3-fd13-4981-8553-e11fdf4e1d4a)
 
+21. Create Event source with event detail for Orders
 ![21](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/f5eb3470-ec4c-40a4-8bf7-cbba21fcbcec)
 
+22. Send the event
 ![22](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/ce05387b-1851-4721-b302-ee15aba9e26b)
 
+23. Create another Event source for USOrderEvent
 ![23](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/4829b1c7-db4f-4c95-b1ca-393889bb0fca)
 
+24. Send the event
 ![24](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/fad22bd5-9eca-419d-a00f-62684f04e137)
 
+25. Check the Orders SQS 
 ![25](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/2b8f8124-ddc9-4fd9-83b3-c43695ff63d7)
 
+26. Create EventBridge Scheduler for OrdersProcessing
 ![26](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/35cccdcc-09c3-43e9-a71e-7391fb2b2d0d)
 
+27. Create a scheduled event - PutEvents
 ![27](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/e19f7e01-ca8a-4b55-8354-5cf3d9d46eb2)
 
+28. The OrdersProcessing schedule is getting created
 ![28](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/a9255bdd-0ce3-4fd7-9e57-5c898870af4e)
 
+29. Check the log stream in the cloud watch and you can see the logs are getting updated based on the schedule run
 ![29](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/408b4f6f-b86c-4338-8897-e2ff93f71cfb)
 
+30. Check the other details of this schedule - such as times when this schedule will run
 ![30](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/e86f7541-f0c8-4919-a7c6-d75da1efcfda)
 
 ![31](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/65ca04d2-e78d-49b2-a058-88042b3ccf27)
