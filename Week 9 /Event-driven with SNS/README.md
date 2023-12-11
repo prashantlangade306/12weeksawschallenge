@@ -1,14 +1,19 @@
-
+1. Create Orders SQS queue.
 ![1](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/34adfac6-6a1b-4c68-8590-973c9e71debe)
 
+2. Specify the SNS queue for this queue
 ![2](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/a4297241-599d-4d5c-9333-7c97ebfd609f)
 
+3. Update the access policy to grant access to the subscribed SNS topic
 ![3](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/d43e64b1-9966-4b1c-af22-da9a6136d3cd)
 
+4. Publish the message to the topic
 ![4](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/18204b82-2226-4747-8839-10674689021e)
 
+5. Successful publishing of the message
 ![5](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/c4f76473-b254-41a8-93c8-4d8bdf81c7f6)
 
+6. 
 ![6](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/24577430-30e3-4d16-9ba2-fd412e735c34)
 
 ![7](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/dac8fa2b-d732-4e1c-bf1c-017659308310)
