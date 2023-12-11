@@ -89,30 +89,42 @@
 30. Check the other details of this schedule - such as times when this schedule will run
 ![30](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/e86f7541-f0c8-4919-a7c6-d75da1efcfda)
 
+31. Check the log stream in the cloud watch and you can see the logs are getting updated 
 ![31](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/65ca04d2-e78d-49b2-a058-88042b3ccf27)
 
+32. Go back to cloudformation console and look at the event driven stack console
 ![32](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/663052f7-b10c-431a-992e-8a8a401734b8)
 
+33. In another window, go to EventBridge console and check the event bus for Inventory and Orders
 ![33](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/280c747e-721d-430f-b136-74958347ac29)
 
+34. In cloud 9 console, you can see that the event-driven-architecture-workshop-workspace is created
 ![34](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/126f5e4e-8679-4b32-9097-bce35846cadd)
 
+35. Under Events folder, open the OrderNotification_v1.json and update the code as follows
 ![35](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/c4e88e7d-4404-43b5-b06f-ecb98abe079f)
 
 ![36](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/be804e6f-dba4-4099-adc5-b7289195dc60)
 
+36. Run the command from the terminal window to put the events
 ![37](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/5217635e-0661-43f4-a1c7-92a4ac84aa38)
 
+37. This will then create the OrderNotification schema registry
 ![38](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/cb4166d6-db2c-4a26-82f6-623b1fdee08d)
 
+38. Open the schema and view the contents
 ![39](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/8932db42-24d5-4a85-aca4-8813f31e2463)
 
+39. Run command and follow prompts as shown to create forecast-service
 ![40](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/d0b2ca94-844a-415d-859c-f936583054eb)
 
+40. View the structure of the cloned project
 ![41](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/7b35f54a-6ff0-4053-8e30-b3e7bf7281f5)
 
+41. Open template.yaml from the project
 ![42](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/91f226af-2487-4781-98f1-6ae0de43e72f)
 
+42.
 ![43](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/5cca4388-6ab3-4475-857c-a1054e9231c6)
 
 ![44](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/8d5bfdf6-6a46-41ed-aa6e-820a1db1f839)
