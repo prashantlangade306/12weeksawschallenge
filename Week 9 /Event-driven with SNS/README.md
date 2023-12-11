@@ -76,17 +76,21 @@
 25. Succesful publishing of message
 ![27](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/43de767e-0215-47bd-8c3c-3da12964a636)
 
-26. 
 ![28](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/e04021a9-4883-46af-a0f4-12bb65cfd296)
+
 
 ![29](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/ed6b15e6-bdc9-4379-858c-06fe13d43666)
 
+26. View all the queues with different number of messages published to each queue.
 ![30](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/0b04b9f2-02c7-42f8-9175-6c773fbbace2)
 
+27. Create a new SQS - Orders-XL
 ![31](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/7129ff69-c8b0-4202-ac46-7a76974e7637)
 
+28. Create the subscription to the SNS topic
 ![32](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/7c0a4753-35cb-44aa-92f3-b996ea8a4f31)
 
+29. View the subscription topic 
 ![33](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/584822fe-d5e0-4c79-8289-cf76121fbf77)
 
 ![34](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/5e937088-3679-42b3-93dc-7d264270c001)
