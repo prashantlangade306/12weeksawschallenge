@@ -41,23 +41,30 @@
 14. Save the updated details
 ![15](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/a00c24c2-487d-446c-9d19-e44445190b95)
 
-15. Check the BookOrders queue
+15. Create BookOrders queue
 ![16](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/226afa72-4ea1-4627-8f28-7fcf18f0b508)
 
+16. Check the BookOrders details
 ![17](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/12bd8ca1-3546-441d-860a-05d6472c7415)
 
+17. Check the Orders subscription
 ![18](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/71632db1-1c50-4f1a-ae0a-d3639b54107d)
 
 ![19](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/7118df5a-9990-4a32-9f2f-d653d9b00712)
 
+18. Update the filter policy with category - books
 ![20](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/a6ef3acc-e700-4787-b099-4cff46dbfe60)
 
+19. Save the subscription
 ![21](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/7f5386d4-6ada-4551-a0d2-868e5fcda76b)
 
+20. Publish Test message to this topic
 ![22](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/44813f57-e4ff-4e43-97ab-1a4e9ef02aee)
 
+21. Message successully published
 ![23](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/5b31f7eb-811c-4e7e-98b8-a81bef49d860)
 
+22. Again publish Test message to this topic
 ![24](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/89a9e813-51d5-42ff-af28-567f388a2aa6)
 
 ![25](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/e45f5280-89ab-4198-af6b-c0ae404a32b9)
