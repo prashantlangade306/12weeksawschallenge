@@ -151,28 +151,39 @@
 50. And then go to DynamoDB console to see the OrderDetails table created
 ![51](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/afb4d71c-1560-45d6-9305-d14fb53b80fd)
 
+51. Notice that a record is created
 ![52](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/d87e1d8e-1f96-4c58-93af-f2d24876805f)
 
+52. View the record details by selecting and editing it.
 ![53](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/b5e192e5-81f6-4604-87ad-a63828e71d8b)
 
+53. Now create EventArchive named OrderEventArchive with source as Orders and retention period of 30 days
 ![54](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/2329713b-acb0-4a99-8d6a-f58afa4c92e8)
 
+54. In the Filter events section, add the code snippet and test event as shown
 ![55](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/0fbe0243-1a13-4156-a29f-1feea6868d87)
 
 ![56](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/db264d94-71a9-45d5-a587-ce3a76da8016)
 
+55. Save the details and see that OrderEventArchive is created
 ![57](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/3e138277-8b39-457a-bdc9-a05ff3617d70)
 
+56. Check the details of the OrderEventArchive
 ![58](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/d134a8db-c9c1-464c-9798-8d7429c20c48)
 
+57. Create a new event for Orders event bus with order type as order notification. Notice the event detail.
 ![59](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/6c1883b0-9e6e-441f-9b94-75dac03ff65a)
 
+58. Send the event
 ![60](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/4ab4c515-afa2-411e-ac6f-fee823415b62)
 
+59. The event count will increase
 ![61](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/6f52d947-9aac-44c6-a015-57dbd2cffc46)
 
+60. Create a new event pattern with replay-name exists = true as shown
 ![62](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/e1ef4444-9fd6-450f-91e8-1599cacf25e5)
 
+61. Create a target for SQS queue OrdersReplayQueue
 ![63](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/ed699b84-fd25-4a96-bd09-b8711be3d10c)
 
 ![64](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/eba9a8a4-3769-4d36-a7ed-f96b8f562094)
