@@ -186,38 +186,51 @@
 61. Create a target for SQS queue OrdersReplayQueue
 ![63](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/ed699b84-fd25-4a96-bd09-b8711be3d10c)
 
+62. View different rules in the EventBridge console
 ![64](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/eba9a8a4-3769-4d36-a7ed-f96b8f562094)
 
+63. Create a new replay with name as OrdersReplay for archived orders and apply OrdersReplayRule
 ![65](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/9572b99a-00b8-4a3a-8533-e05b5a9cbf98)
 
+64. Start the OrdersReplay
 ![66](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/1b0a9474-c1c8-40de-bb8a-e4ee576ae2a7)
 
+65. You can see that there is one message in the SQS
 ![67](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/f7c41eca-6423-4839-9241-df43b48641bd)
 
+66. Here is the E2E AWS architecture with the use of different AWS services including Route 53
 ![68](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/d7e5cd98-7dd7-4c0b-8b56-6c723ed3d817)
 
+67. Create a new Event bus for Orders in EventBridge 
 ![69](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/a690e32a-cb1a-4770-a1c4-3169536a175e)
 
+68. And then create another rule named OrdersDevRule
 ![70](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/f955373d-f638-4b99-b913-83bc07c33cbe)
 
+69. Here, we are creating a global endpoint - OrdersGlobalEndpoint in one region - us-east-1 that will be used as a primary endpoint
 ![71](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/a7669c9c-2655-451a-b68b-726fd0196f10)
 
+70. Create another stack named EventBridgeGlobalEndPointHealthCheck with health check alarm - LatencyFailuresHealthCheck
 ![72](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/dd5f00d5-7a30-4e28-87ed-2b12565c5feb)
 
+71. Stack is successfully created
 ![73](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/8bf25025-f02d-4fe6-88a2-f418a0059086)
 
+72. At the end, OrdersGlobalEndpoint is being created which is currently in Enabled state and will become active later
 ![74](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/c9093529-b418-4d1d-82aa-302ca2f6198c)
 
-![75](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/aac3fb04-3e75-4954-8f37-aa3e2bdace6a)
-
+73. Send the event using AWS terminal command
 ![76](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/38a395f0-38fa-4141-bb79-39ced05fa6bd)
 
+74. Go to cloudwatch and access the log groups for orders 
 ![77](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/68cb6cce-e574-43b4-bade-238c6265b76d)
 
 ![78](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/ceb0ad54-a323-4f5d-be76-0eef9bfe2ddd)
 
+75. Check Route 53 - LatencyFailuresHealthCheck which is currently in OK state
 ![79](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/a33385e7-dca3-4ceb-944d-c6f1dabb76f8)
 
+76. Go to cloudwatch and access the log groups for orders 
 ![80](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/cd0b6ef6-8b13-4a31-9ea3-290a5c45acba)
 
 ![81](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/a5b30214-c8b8-4576-ab50-b0876e275736)
