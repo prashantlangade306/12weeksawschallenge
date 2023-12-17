@@ -39,11 +39,19 @@
 13. Go back to S3 console and access the S3 bucket created previously. There are various folders created inside data/ directory for the data streams as shown
 ![13](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/d473865a-66ea-4928-92d4-f396e3411429)
 
-15.
+14. Now look at the architecture diagram below for storing, catalog and transform component
 ![14](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/ecf45f4d-3355-4ce5-a571-c54c362406d2)
+
+15. Create IAM role that will be used by AWS Glue to call other AWS services
 ![15](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/0bd8c0b9-71f7-4cc5-96bb-78b313d81510)
+
+16. Ensure to assign Admin access and AWSGlueServiceRole and create the role
 ![16](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/2e33d58b-e057-4bda-ab11-508ea7d8aab8)
+
+17. Create a new Crawler where the source data is S3 and provide the S3 path
 ![17](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/909daa8d-a86c-4414-969c-23c18a3637e4)
+
+18. 
 ![18](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/1558fe62-4398-4422-a242-150332ab0fd6)
 ![19](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/dd1d8897-af2e-4181-858a-55ac3bfe59dd)
 ![20](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/ace59e66-769c-45a8-b19d-6722c558a9f8)
