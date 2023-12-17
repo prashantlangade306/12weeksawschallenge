@@ -1,10 +1,14 @@
+A. Create a SQS Queue
 
 ![1](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/38fb55eb-4e05-4e49-9b6c-e3b466ee6038)
 
+B. Create a Lambda Function
 ![2](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/d24374a5-4ccc-492b-a083-8c4b0c38645b)
 
+C. Ensure under Triggers, SQS state is "Enabled"
 ![3](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/70c47791-3253-49e0-b687-64f65450661a)
 
+D. If the state is not "Enabled", check the checkbox against "Activate Trigger" and click on save
 ![4](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/7479a009-74cc-4a84-ae97-4e3e6956bcda)
 
 ![5](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/fe52752d-3e6c-4858-84bd-54c53e3d815d)
