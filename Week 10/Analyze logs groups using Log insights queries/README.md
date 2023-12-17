@@ -23,15 +23,19 @@ G. click on the log group for the SQS queue and you can see the log events for t
 H. In the same console, go to Logs Insights
 ![8](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/cc015af4-1384-45da-a451-29e966f924a3)
 
-I.
+I. Analyze Logs using various queries
 ![9](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/814c7ca5-911a-48d6-a0d8-93ac6b7b8ca7)
 
+J. Change the limit from 20 to 5 and then run the query
 ![10](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/d9576303-3986-4bc0-9266-a1523d9d5428)
 
+K. Change the query to count by timestamp under Logs Insights and see the output
 ![11](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/d7d2f0ca-db93-4ce8-977d-7d4e3e15637b)
 
+L. Change the query to count it by bin(30s) and see the output
 ![12](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/5afc3f93-5da3-4fd2-aab7-5ec1959c9de2)
 
+M.
 ![13](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/1f72d7a6-0f7b-4524-b137-f72b190dfc93)
 
 ![14](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/fb22ab20-0ad7-4a36-82b2-a91cbd625be4)
