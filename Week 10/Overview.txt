@@ -1,1 +1,3 @@
+Analytics on AWS
 
+This workshop will consists analytics operations that include ingesting, storing, transforming and consuming data using several AWS analytics services such as AWS Glue, Amazon Athena, Amazon Kinesis, Amazon EMR and Amazon Quicksight
