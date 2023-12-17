@@ -30,13 +30,16 @@
 ![10](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/febfda23-9e63-4900-9b5f-9d1435002845)
 
 11. This will open the Kinesis Data Generator in new window.
-    Select Region as "us-east-1" and provide other details as shown and click on send.
-    Once the count reaches over 10,000, click on stop.
 ![11](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/79ba4acd-d5ce-4efc-8dc0-4542c863bdde)
 
-12. Go back to S3 console and access the S3 bucket created previously. There are various folders created inside data/ directory for the data streams as shown
+12. Select Region as "us-east-1" and provide other details as shown and click on send.
+    Once the count reaches over 10,000, click on stop.
 ![12](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/c002748b-0e82-4a5b-aa49-e0b54af89b5e)
+
+13. Go back to S3 console and access the S3 bucket created previously. There are various folders created inside data/ directory for the data streams as shown
 ![13](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/d473865a-66ea-4928-92d4-f396e3411429)
+
+15.
 ![14](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/ecf45f4d-3355-4ce5-a571-c54c362406d2)
 ![15](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/0bd8c0b9-71f7-4cc5-96bb-78b313d81510)
 ![16](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/2e33d58b-e057-4bda-ab11-508ea7d8aab8)
