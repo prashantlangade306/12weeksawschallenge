@@ -72,18 +72,19 @@
 24. Now go to Athena Console and open Query Editor and provide the details as shown
 ![24](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/837a6fd0-e689-40a1-9468-06b68afd11db)
 
-
+25. In the Editor tab, ensure Data source as AwsDataCalog and database as "analyticsworkshopdb". View the query result
 ![25](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/005631e3-9905-4014-9c83-0114f869f4cd)
 
-
+26. Run the custom query as shown and see the result
 ![26](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/a7464d6c-ad5d-47ba-84d7-eade09981f64)
 
-
+27. Here is the next component of the architecture where S3 has the raw/reference data which will be transformed using AWS Glue and processed.
 ![27](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/2671e530-d2d0-4c07-a454-196135848651)
 
+28. Go to IAM console and create a new policy with the details shown
 ![28E](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/6a7f7996-ffd9-46a5-9beb-de63379cd33c)
 
-
+29. 
 ![29](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/7e5808ec-391d-418a-9674-561139210061)
 
 
