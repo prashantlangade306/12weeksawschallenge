@@ -84,14 +84,14 @@
 28. Go to IAM console and create a new policy with the details shown
 ![28E](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/6a7f7996-ffd9-46a5-9beb-de63379cd33c)
 
-29. 
+29. Create a new IAM policy for AWS Glue Interactive Pass Role as shown
 ![29](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/7e5808ec-391d-418a-9674-561139210061)
 
-
+30. Confirm the policy is created
 ![30](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/ed57b44f-fbeb-4f9e-9773-6f595d124574)
 
-
+31. Create a new IAM role for Glue Interactive Session
 ![31](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/cf8da5e8-f54d-457b-b623-0da7f58a7fa8)
 
-
+32. The role is created successfully
 ![32](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/e7477300-cb85-4fc5-bd75-94aeef7387e7)
