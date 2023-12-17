@@ -14,11 +14,19 @@
 5. Upload the tracks_list.json file to the bucket
 ![5](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/205f9772-9266-4266-8095-864662555a81)
 
+6. Go to Amazon Kinesis Data Firehose console and create a delivery stream
 ![6E](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/80feff9e-fcf4-4884-bd99-90bb27ad66a6)
 
+7. Then go to Cloudformation console and create a stack 
 ![7](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/50f8b401-79a1-43a9-92af-d476289b843e)
+
+8. Provide details as shown
 ![8](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/da832aa1-ef34-4d4b-8353-7055b39f6478)
+
+9. Monitor the cloud formation logs and verify the stack status is "CREATE_COMPLETE"
 ![9](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/201a0ff0-77f1-4d68-b19b-feb8d58e443d)
+
+10. Then go to Outputs tab and click on the link for KinesisDataGeneratorUrl
 ![10](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/febfda23-9e63-4900-9b5f-9d1435002845)
 ![11](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/79ba4acd-d5ce-4efc-8dc0-4542c863bdde)
 ![12](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/c002748b-0e82-4a5b-aa49-e0b54af89b5e)
