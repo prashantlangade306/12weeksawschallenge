@@ -11,14 +11,19 @@ C. Ensure under Triggers, SQS state is "Enabled"
 D. If the state is not "Enabled", check the checkbox against "Activate Trigger" and click on save
 ![4](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/7479a009-74cc-4a84-ae97-4e3e6956bcda)
 
+E. Go to SQS console and send a sample message as shown below. Click on "send message" 10 times.
 ![5](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/fe52752d-3e6c-4858-84bd-54c53e3d815d)
 
+F. Go to Cloudwatch console and then to Log groups from the left hand panel
 ![6](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/150d3633-195d-4101-999e-676f7455a7be)
 
+G. click on the log group for the SQS queue and you can see the log events for the messages sent previously
 ![7](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/721036df-9bc2-40ca-8cbe-8fee464b4e05)
 
+H. In the same console, go to Logs Insights
 ![8](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/cc015af4-1384-45da-a451-29e966f924a3)
 
+I.
 ![9](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/814c7ca5-911a-48d6-a0d8-93ac6b7b8ca7)
 
 ![10](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/d9576303-3986-4bc0-9266-a1523d9d5428)
