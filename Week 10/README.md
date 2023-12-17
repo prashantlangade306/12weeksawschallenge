@@ -60,16 +60,16 @@
 20. Set Output and Scheduling 
 ![20](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/ace59e66-769c-45a8-b19d-6722c558a9f8)
 
-
+21. Finally review all settings
 ![21](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/a0ae256e-acbc-471e-9973-15b0106b8b90)
 
-
+22. Create the crawler and confirm its running
 ![22](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/0216cf25-ae2c-4c39-9226-6afe79d07b5d)
 
-
+23. Under the database section, check the table properties 
 ![23](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/eddd52b3-686a-45ad-a9fb-9ec1e9e12b49)
 
-
+24. Now go to Athena Console and open Query Editor and provide the details as shown
 ![24](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/837a6fd0-e689-40a1-9468-06b68afd11db)
 
 
