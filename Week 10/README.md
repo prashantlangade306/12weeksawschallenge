@@ -51,13 +51,13 @@
 17. Create a new Crawler where the source data is S3 and provide the S3 path
 ![17](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/909daa8d-a86c-4414-969c-23c18a3637e4)
 
-18. 
+18. Set Crawler properties with data source to be scanned for as S3
 ![18](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/1558fe62-4398-4422-a242-150332ab0fd6)
 
-
+19. Create database
 ![19](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/dd1d8897-af2e-4181-858a-55ac3bfe59dd)
 
-
+20. Set Output and Scheduling 
 ![20](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/ace59e66-769c-45a8-b19d-6722c558a9f8)
 
 
