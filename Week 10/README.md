@@ -28,7 +28,13 @@
 
 10. Then go to Outputs tab and click on the link for KinesisDataGeneratorUrl
 ![10](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/febfda23-9e63-4900-9b5f-9d1435002845)
+
+11. This will open the Kinesis Data Generator in new window.
+    Select Region as "us-east-1" and provide other details as shown and click on send.
+    Once the count reaches over 10,000, click on stop.
 ![11](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/79ba4acd-d5ce-4efc-8dc0-4542c863bdde)
+
+12. Go back to S3 console and access the S3 bucket created previously. There are various folders created inside data/ directory for the data streams as shown
 ![12](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/c002748b-0e82-4a5b-aa49-e0b54af89b5e)
 ![13](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/d473865a-66ea-4928-92d4-f396e3411429)
 ![14](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/ecf45f4d-3355-4ce5-a571-c54c362406d2)
