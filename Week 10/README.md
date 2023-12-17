@@ -1,7 +1,14 @@
+1. Overview of the AWS analytics architecture
 
 ![1](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/9cbf1eaf-bc8e-4896-bc10-512f6255a7a8)
+
+2. Create S3 bucket as below 
 ![2](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/6d1f0efc-d218-4f72-9151-daabf73175eb)
+
+3. Create a folder named "data" inside that S3 bucket
 ![3](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/33d2d697-16c8-40c4-80bb-91bc54ef319d)
+
+4. Create a folder named "reference_data" inside that folder
 ![4](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/89780e29-8f54-4197-aec8-74313528f97a)
 ![5](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/205f9772-9266-4266-8095-864662555a81)
 
