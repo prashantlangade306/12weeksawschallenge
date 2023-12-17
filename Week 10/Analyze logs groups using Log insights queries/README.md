@@ -35,9 +35,11 @@ K. Change the query to count by timestamp under Logs Insights and see the output
 L. Change the query to count it by bin(30s) and see the output
 ![12](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/5afc3f93-5da3-4fd2-aab7-5ec1959c9de2)
 
-M.
+M. Under the "Visualisation" tab, you can see the liniear graph.
 ![13](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/1f72d7a6-0f7b-4524-b137-f72b190dfc93)
 
+N. Change it to Bar from the dropdwon
 ![14](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/fb22ab20-0ad7-4a36-82b2-a91cbd625be4)
 
+O. Finally validate the result of the labs as shown. Note: This is applicable only to those who are using Whizlabs account for running the labs.
 ![15](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/86def9ba-c3ef-4ae8-b0fa-1252d9aaf22f)
