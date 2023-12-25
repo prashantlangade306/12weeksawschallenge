@@ -1,0 +1,8 @@
+AI CODING COMPANION
+
+# Set up of Local IDE
+# Cloning of codewhisperer repo - amazon-codewhisperer-immersion-day
+# Auto suggestion
+# Code generation using comments
+# Code generation based on the context
+# Generate unit test cases
