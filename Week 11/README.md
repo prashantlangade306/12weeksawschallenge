@@ -55,11 +55,19 @@ Ensure to have below setup on your local machine
 14. Now open CSVParser.java file and you can see that the code is auto generated based on the comments above.
 ![16](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/e43961c2-94cd-4b46-8b2f-c9af59f3fb1e)
 
-15. 
+15. Open Calculator.java file and based on the each comment, a method is generated.
 ![17](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/55715afb-9eeb-48d3-aa60-840f43fe8242)
+
+16. Below is an example of generation of unit test case for Calculator - addition of two numbers
 ![18](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/2388549e-fb86-47f1-a195-25864d4c7b48)
+
+17. Open SQL.java file and based on the comment, auto code is generated for mysql database connection
 ![19](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/540b3e08-2cf6-4811-95db-a430d5382977)
+
+18. You can see that as soon as you add more specific details, more methods are auto generated accordingly.
 ![20](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/68badd76-7782-43a4-8169-bea488f26911)
+
+19. Similarly you can see all the "FindBy" methods for Customer class in CustomerRepository class as below
 ![21](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/a6bc82bd-42be-43ca-89f4-b641cd6dad31)
 
 
