@@ -10,10 +10,16 @@ Ensure to have below setup on your local machine
 - Git 
 - Java/Node/.NET : This can be either of these. For this workshop, we will go with Java
 
-Once you have this setup, we need to set up base code repository.
+1. Once you have this setup, we need to set up base code repository.
 ![1](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/b4691334-fafd-4205-83de-1530c1016870)
+
+2. Review the code structure
 ![2](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/60af4da0-ccd5-422b-b63b-e51f4a758af7)
+
+3. Navigate to the Python directory via terminal and install the necessary requirements with the command below
 ![3](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/ca8ae22d-1920-42cd-9dd7-233961c075d9)
+
+4. 
 ![4](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/2ed1105a-c2b1-4931-b6d9-9b89b146ca0d)
 ![5](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/81af5037-39fd-4585-bc4b-bded69f1d51a)
 ![6](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/b920dd51-665a-4d90-842a-d90aad3ab2bc)
