@@ -4,11 +4,11 @@ Pre-requisite:
 
 Ensure to have below setup on your local machine
 
-# Visual Studio Code
-# Python 
-# AWS CLI 
-# Git 
-# Java/Node/.NET : This can be either of these. For this workshop, we will go with Java
+## Visual Studio Code
+## Python 
+## AWS CLI 
+## Git 
+## Java/Node/.NET : This can be either of these. For this workshop, we will go with Java
 
 Once you have this setup, we need to set up base code repository.
 
