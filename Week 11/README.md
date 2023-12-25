@@ -26,11 +26,23 @@ Ensure to have below setup on your local machine
 
 5. Now click on "sign-in to get started" under CodeWhisperer
 ![6](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/b920dd51-665a-4d90-842a-d90aad3ab2bc)
+
+6. This will ask for your AWS Builder ID. Click "Proceed to Browser"
 ![7](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/9e24247b-c4a8-43bc-950f-47c4871def42)
+
+7. Now you have enabled CodeWhisperer capability
 ![8](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/4f9f75bc-68ed-4058-bf64-faaa7e8f2cf3)
+
+8. Open example1.py and review the code for fakeusers
 ![9](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/04c46d66-d8f0-4cf0-9a52-6e343fbdb345)
+
+9. Keep the cursor at the end of the second line and enter. This will provide code suggestion. Click on Tab to accept.
 ![10](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/0e59b13f-c700-4817-a568-262a6c0da369)
+
+10. Repeat the same step for few times and add different fakeusers as seen below.
 ![11](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/660108d3-4927-47dc-b4f7-242cc38d3c2a)
+
+11. Now open example2.py. This is about uploading a file to S3 bucket. When you hit enter towards the end of the first line, it suggest the code as shown below. Click Tab to accept it.
 ![12](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/50ee41d6-0e44-4144-beb2-24d155caf957)
 ![13](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/db9e4f12-b59c-4c8b-a98b-38da29417081)
 ![14](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/42241df9-90aa-4d31-a9a2-78186ef380a7)
