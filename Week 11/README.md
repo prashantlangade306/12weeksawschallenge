@@ -4,7 +4,7 @@ Pre-requisite:
 
 Ensure to have below setup on your local machine
 
-Visual Studio Code 
+Visual Studio Code \n
 Python 
 AWS CLI 
 Git 
