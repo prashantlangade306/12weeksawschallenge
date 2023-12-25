@@ -48,8 +48,14 @@ Ensure to have below setup on your local machine
 
 12. Navigate to Java directory and review the file structure.
 ![14](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/42241df9-90aa-4d31-a9a2-78186ef380a7)
+
+13. Open BinarySearch.java file and hit the enter button towards the end of the first line. This will auto suggest the code for binary search as shown below. Click Tab button to accept it.
 ![15](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/b3581e23-52a5-4547-8f80-ed70f7f22a1c)
+
+14. Now open CSVParser.java file and you can see that the code is auto generated based on the comments above.
 ![16](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/e43961c2-94cd-4b46-8b2f-c9af59f3fb1e)
+
+15. 
 ![17](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/55715afb-9eeb-48d3-aa60-840f43fe8242)
 ![18](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/2388549e-fb86-47f1-a195-25864d4c7b48)
 ![19](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/540b3e08-2cf6-4811-95db-a430d5382977)
