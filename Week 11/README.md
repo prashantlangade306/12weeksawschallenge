@@ -19,9 +19,12 @@ Ensure to have below setup on your local machine
 3. Navigate to the Python directory via terminal and install the necessary requirements with the command below
 ![3](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/ca8ae22d-1920-42cd-9dd7-233961c075d9)
 
-4. 
 ![4](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/2ed1105a-c2b1-4931-b6d9-9b89b146ca0d)
+
+4. Go to Marketplace and install AWS toolkit
 ![5](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/81af5037-39fd-4585-bc4b-bded69f1d51a)
+
+5. Now click on "sign-in to get started" under CodeWhisperer
 ![6](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/b920dd51-665a-4d90-842a-d90aad3ab2bc)
 ![7](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/9e24247b-c4a8-43bc-950f-47c4871def42)
 ![8](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/4f9f75bc-68ed-4058-bf64-faaa7e8f2cf3)
