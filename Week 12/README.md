@@ -26,9 +26,15 @@
 9. Ensure to provide input to the series of questions as below
 ![9](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/daebf0de-b6bb-4683-ae3a-2f2053196a98)
 
-10. 
+10. Start the agent
 ![10](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/dae26f24-9063-476b-b043-73ceb4709260)
+
+11. Check the status of the agent
 ![11](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/e4e5ba86-6db8-499d-879c-6dbe38cf5b54)
+
+12. Notice that the CWAgent is created under "All Metrics"
 ![12](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/64bfc5bf-2b65-41a2-90a9-bd1c6afe4329)
+
+13. Click on that Cloudwatch agent and see various metrics as shown
 ![13](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/34297a4f-c932-403e-bf8d-1cfd445c96ce)
 
