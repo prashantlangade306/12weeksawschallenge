@@ -17,10 +17,16 @@
 6. Connect to the instance
 ![6](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/3699f78f-281a-4326-b50a-874d4cdb26f6)
 
-7. 
+7. EC2 instance connection 
 ![7](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/c2290026-880f-4278-b63c-a03dab413c9e)
+
+8. Install Cloudwatch agent
 ![8](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/b55d5f56-f1f1-4957-b8a4-c89b188e769b)
+
+9. Ensure to provide input to the series of questions as below
 ![9](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/daebf0de-b6bb-4683-ae3a-2f2053196a98)
+
+10. 
 ![10](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/dae26f24-9063-476b-b043-73ceb4709260)
 ![11](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/e4e5ba86-6db8-499d-879c-6dbe38cf5b54)
 ![12](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/64bfc5bf-2b65-41a2-90a9-bd1c6afe4329)
