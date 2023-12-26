@@ -23,23 +23,18 @@
 8. Now create a new email subscription 
 ![8](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/d99cedb7-0bac-4e99-8e38-bbb1cb186a63)
 
-
+9. Confirmation of successful creation of subscription
 ![9](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/e1fe875f-c74a-4c5c-b44e-052bcdf4410f)
 
-
+10. Once you accept the subscription link sent to your email, you can see it is in confirmed state.
 ![10](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/f198d313-8009-4872-81ed-4189de25ea78)
 
-
+11. Check the average CPU utilisation graph for the last 1 hour
 ![11](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/ace01784-4013-4d10-ae8d-c8ae9c359c6e)
 
-
+12. Now navigate to Cloudwatch console -> All Mertrics -> EC2 and find the instance name with "MyEC2Server" for CPUUtilisation as shown
 ![12](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/88b4bf13-cdc8-4e85-8acf-5a6d9b1f34b4)
 
-
+13. Select the checkbox and then navigate to "Graphed Metrics" tab 
 ![13](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/847d3109-0592-484f-b8fc-059c5f65e1ef)
 
-
-![14](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/26ff5e39-5ea1-4e58-bc13-9fcdc9dddc04)
-
-
-![15](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/d06515c8-7af9-4eec-9479-b5d451522b7f)
