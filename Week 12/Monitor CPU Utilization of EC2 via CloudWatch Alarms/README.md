@@ -2,11 +2,13 @@
 1. Create EC2 instance named "MyEC2Server"
 ![1](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/0a31d2d3-d9c9-4caa-8de8-d47bc8333f0a)
 
-2. Ensure to edit Network Settings and update the inbound Security Group rules as shown
+2. Enable auto assign public IP and create a new security group
 ![2](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/b0d5e9f1-dd74-47b6-856e-87f2173f7511)
 
-3. 
+3. Ensure to edit Network Settings and update the inbound Security Group rules as shown
 ![3](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/3991f288-09b4-4eb6-ae30-b0ea11f9744c)
+
+4. 
 ![4](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/3afc971f-ee52-4288-9ee9-56aa040e61c6)
 ![5](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/2d523433-edfe-4aea-86ad-0c1bf31d502b)
 ![6](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/0fec2fd3-1946-4c10-8a95-5327cb22580c)
