@@ -1,0 +1,4 @@
+# One Observability Workshop
+
+This workshop will cover how Cloudwatch logs can be used to observe the system behaviour
+
