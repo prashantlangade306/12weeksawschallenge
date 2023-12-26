@@ -8,10 +8,16 @@
 3. Edit Network Settings with Auto-assign public IP enabled and new security group name and description
 ![3](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/67bf467e-7126-4c0c-a0f2-323954d6ad92)
 
-4. 
+4. Select default IAM instance profile created
 ![4](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/5c543a5f-aedf-4fdb-8a52-07466dc79fad)
+
+5. Ensure the instance is up and running
 ![5](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/d557bbcd-3c64-4761-abbc-5f898bb103ac)
+
+6. Connect to the instance
 ![6](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/3699f78f-281a-4326-b50a-874d4cdb26f6)
+
+7. 
 ![7](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/c2290026-880f-4278-b63c-a03dab413c9e)
 ![8](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/b55d5f56-f1f1-4957-b8a4-c89b188e769b)
 ![9](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/daebf0de-b6bb-4683-ae3a-2f2053196a98)
