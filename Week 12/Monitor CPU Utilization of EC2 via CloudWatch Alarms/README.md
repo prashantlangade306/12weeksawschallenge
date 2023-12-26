@@ -8,8 +8,10 @@
 3. Ensure to edit Network Settings and update the inbound Security Group rules as shown
 ![3](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/3991f288-09b4-4eb6-ae30-b0ea11f9744c)
 
-4. 
+4. Add the user data script as shown that will run during EC2 instance start up
 ![4](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/3afc971f-ee52-4288-9ee9-56aa040e61c6)
+
+5. Once the instance is created, ensure it is in running state
 ![5](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/2d523433-edfe-4aea-86ad-0c1bf31d502b)
 ![6](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/0fec2fd3-1946-4c10-8a95-5327cb22580c)
 ![7](https://github.com/prashantlangade306/12weeksawschallenge/assets/57378421/1f427a5a-74f3-4c2c-9dde-6e5e77061ced)
